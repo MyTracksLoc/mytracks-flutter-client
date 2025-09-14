@@ -12,10 +12,11 @@
 ## Screenshots
 
 ## Screenshots
+## Screenshots
 
 | Android - Map View          | Web - Map View              | Android - Sharing Controls |
 | :-------------------------: | :--------------------------: | :--------------------------: |
-| ![Android Map View](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/main/screen1.jpg) | ![Web Map View](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/main/screen2.jpg) | ![Android Sharing Controls](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/main/screen3.jpg) |
+| ![Android Map View](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/master/screen1.jpg) | ![Web Map View](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/master/screen2.jpg) | ![Android Sharing Controls](https://raw.githubusercontent.com/MyTracksLoc/mytracks-flutter-client/master/screen3.jpg) |
 | *Friends' locations on Android* | *Friends' locations on the Web* | *Starting/Stopping sharing on Android* |
 
 
