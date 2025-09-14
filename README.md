@@ -1,4 +1,4 @@
-# Live Location Share
+# MyTracks Flutter Client
 
 **Share your live location with friends in real-time, across Android and the Web!**
 
