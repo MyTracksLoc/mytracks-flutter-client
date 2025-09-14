@@ -3,7 +3,7 @@
         android:label="live_location_share"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
-        <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyCzCzKustO13DPLaaVmgNy6i_DonVOJII4"/>
+        <meta-data android:name="com.google.android.geo.API_KEY" android:value="api_key"/>
         <activity
             android:name=".MainActivity"
             android:exported="true"
