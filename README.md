@@ -24,10 +24,10 @@ A self-hosted, privacy-focused live location sharing application built with Flut
 
 ## 📱 Screenshots
 
-| Android - Map View | Android - Settings | Android - User List |
-| :-------------------------: | :--------------------------: | :--------------------------: |
+| Map View | Settings |             User List             |
+| :-------------------------: | :--------------------------: |:---------------------------------:|
 | ![Android Map View](screen1.jpg) | ![Android Settings](screen2.jpg) | ![Android User List](screen3.jpg) |
-| *Interactive map with live locations* | *Server configuration & preferences* | *Connected users management* |
+| *Interactive map with live locations* | *Server configuration & preferences* |   *Connected users management*    |
 
 ## 🏗️ Architecture
 
